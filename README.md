@@ -1,5 +1,5 @@
 # Census_data_pipeline
-## HOW THE PIPELINE WORKS?
+# HOW THE PIPELINE WORKS?
 1. Loading the data from census_data excel to python using Pandas.
 2. Applying changes to the column names
 3. Handling null values(Transforming and replacing)
